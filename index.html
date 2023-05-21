@@ -4,12 +4,38 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <link rel="stylesheet" href="./style/normalize.css">
   <link rel="stylesheet" href="./style/style.css">
   <title>Modal project</title>
 </head>
 <body>
-  
+  <div class="modal-container">
+    <div class="container-title">
+      <h1>Hello Everyone !</h1>
+      <img src="./images/hello emoji.png" alt="hi emoji">
+    </div>
+    <h2>This message for Everyone so click the <span>View</span> button</h2>
+  </div>
+  <button class="button" onclick="displayModal()">View</button>
+
+  <div class="modal-conatainer hidden" id="View">
+    <div class="modal-img">
+      <img src="./images/Hello-Vector-PNG-Image.png" alt="hello img">
+      <h2>Hi Friends</h2>
+    </div>
+    <div class="modal-txt">
+      <h2> if you like these message. kept it and follows</h2>
+      <ul>
+        <li>Stay loyal but not stupid.</li>
+        <li>Remember loving a girl/boy more than yourself is the most beatiful way you can <span>kill</span> yourself.</li>
+        <li>When you choose peace it comes with a lot of goodbyes.</li>
+        <li>Be available but not for Everyone.</li>
+        <li>Life is short just do what the F*ck makes you Happy.</li>
+      </ul>
+    </div>
+    <i class="fa-solid fa-xmark" onclick="removeModal()"></i>
+  </div>
 
   <script src="./js/script.js"></script>
 </body>
