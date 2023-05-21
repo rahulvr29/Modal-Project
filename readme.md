@@ -5,7 +5,7 @@ Thanks for checking out this Project.
 **To do this challenge, you need a basic understanding of HTML and CSS and JS.**
 
 # SCREENSHOT
-[Design preview for Modal Project](./design/desktopdesign.jpg)
+[Design preview for Modal Project](./design/desktop%20design.jpg)
 
 ## Table of contents
 
@@ -34,6 +34,6 @@ Use this section to recap over some of your major learnings while working throug
 
 ### Links
 
-- Solution URL: [click] (https://github.com/rahulvr29/Modal-Project.git)
+- Solution URL: https://github.com/rahulvr29/Modal-Project.git
 
-- Live Site URL:[click] (https://deluxe-sunshine-34e67b.netlify.app/)
+- Live Site URL: https://deluxe-sunshine-34e67b.netlify.app/
