@@ -92,6 +92,7 @@ button:hover{
 .modal-main i{
   position: absolute;
   top: 0px;
+  padding: 15px;
   right: 5px;
   font-size: 1.5rem;
   cursor: pointer;
