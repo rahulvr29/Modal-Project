@@ -145,3 +145,8 @@ button:hover{
     margin-left: 550px;
   }
 }
+@media (min-width: 1400px) {
+  button{
+    margin-left: 670px;
+  }
+}
