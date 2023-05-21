@@ -5,7 +5,7 @@ Thanks for checking out this Project.
 **To do this challenge, you need a basic understanding of HTML and CSS and JS.**
 
 # SCREENSHOT
-![Design preview for Modal Window](../Modal%20Project/design/design.png)
+![Design preview for Modal Window](../Modal%20Project/design/desktop%20design.jpg)
 
 ## Table of contents
 
